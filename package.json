@@ -36,6 +36,9 @@
     ]
   },
   "devDependencies": {
-    "ajv": "^7.2.4"
+    "ajv": "8.17.1"
+  },
+  "resolutions": {
+    "ajv": "8.17.1"
   }
 }
